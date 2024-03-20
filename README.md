@@ -20,7 +20,10 @@ Please take a look into the paper for detailed info about the measurement setup,
 	- iperf_cleaned_means: the measurements of iperf_cleaned_seconds are aggregated by their means
 - Plotting_Scripts/ - The scripts that create the plots of our paper
 - Plots/ - Contains the plots of our paper
-- Weather_Data/ - Contains the raw data from DWD (for Osnabrück) and KNMI (for Enschede)
+
+## DWD and KNMI Weather Data 
+The weather data from the KNMI (Enschede) and DWD (Osnabrück) are too large to be published on Github.
+They can be downloaded from the links provided in the "DWD_KNMI_Downloadlinks.txt"
 
 ## Citation
 D. Laniewski, E. Lanfer, B. Meijerink, R. van Rijswijk-Deij, N. Aschenbruck, "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data," arXiv preprint arXiv:2402.16448, 2024.
