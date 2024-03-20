@@ -1,0 +1,5 @@
+Dataset format:
+site_name: str; represents measurement site
+component: str; represents measurement component
+timestamp: ISO8601
+info: str; JSON encoded metadata

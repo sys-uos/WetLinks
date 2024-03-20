@@ -1,0 +1,12 @@
+Dataset format:
+site_name: str; represents measurement site
+timestamp_start: ISO8601
+timestamp_end: ISO8601
+target: str
+ip_protocol: str
+packet_loss: float; in %
+packets_send: int
+ping_avg: float; in ms
+ping_worst: float; in ms
+ping_best: float; in ms
+ping_stddev: float; in ms

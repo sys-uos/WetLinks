@@ -1,0 +1,20 @@
+Dataset format:
+site_name: str; represents measurement site
+timestamp: ISO8601
+temp: float; in °C
+humidity: float; in %
+dewpt: float; in °C
+windchill: float; in °C
+winddir: float; in °
+windspeed: float; in m/s
+windgust: float; in m/s
+rain: float; in mm
+rain_daily: float; in mm
+rain_weekly: float; in mm
+rain_monthly: float; in mm
+rain_yearly: float; in mm
+solarradiation: float; in W/m²
+uv: float; in UV-Index
+barom: float; in hPa
+lowbat: int; 0 = OK, 1 = LOW
+softwaretype: str

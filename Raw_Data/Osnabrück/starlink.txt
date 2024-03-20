@@ -1,0 +1,15 @@
+Dataset format:
+site_name: str; represents measurement site
+timestamp: ISO8601
+state: str
+uplink: float; in Mbit/s
+downlink: float; in Mbit/s
+pop_ping_latency: float; in ms
+ping_drop: float; in %
+mean_ping_latency: float; in ms
+ping_stdvar: float; in ms
+fraction_obstructed: float; in %
+obstruction_duration: float; in s
+obstruction_interval: float; in s
+direction_azimuth: float; in °
+direction_elevation: float; in °

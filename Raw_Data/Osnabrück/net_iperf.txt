@@ -1,0 +1,9 @@
+Dataset format:
+site_name: str; represents measurement site
+timestamp_start: ISO8601
+timestamp_end: ISO8601
+server: str
+ip_protocol: str
+transport_protocol: str
+download: float; in bit/s
+upload: float; in bit/s
