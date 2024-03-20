@@ -3,7 +3,7 @@ This dataset corresponds to the paper "WetLinks: a Large-Scale Longitudinal Star
 
 Please take a look into the paper for detailed info about the measurement setup, software used, as well as analysis results.
 
-##Structure
+## Structure
 - Raw_Data/ - Contains the unfiltered raw measurement data. The .csv files contain the data and the corresponding .txt files contain descriptions of all features.
 	- froggit: Weather data from the Froggit DP2000 weather stations placed directly next to the dishes
 	- metadata: detailed version information about the software that we used. This includes, e.g., python modules as well as system libraries
@@ -22,7 +22,7 @@ Please take a look into the paper for detailed info about the measurement setup,
 - Plots/ - Contains the plots of our paper
 - Weather_Data/ - Contains the raw data from DWD (for Osnabrück) and KNMI (for Enschede)
 
-##Citation
+## Citation
 D. Laniewski, E. Lanfer, B. Meijerink, R. van Rijswijk-Deij, N. Aschenbruck, "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data," arXiv preprint arXiv:2402.16448, 2024.
 ```
 @article{laniewski2024wetlinks,
@@ -33,5 +33,5 @@ D. Laniewski, E. Lanfer, B. Meijerink, R. van Rijswijk-Deij, N. Aschenbruck, "We
 }
 ```
 
-##License
+## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
