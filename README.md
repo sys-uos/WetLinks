@@ -1,5 +1,5 @@
 # WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data
-This dataset corresponds to the paper "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data" ([https://arxiv.org/abs/2402.16448](https://arxiv.org/abs/2402.16448 "https://arxiv.org/abs/2402.16448"))
+This dataset corresponds to the paper "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data" ([https://arxiv.org/abs/2402.16448](https://arxiv.org/abs/2402.16448 "https://arxiv.org/abs/2402.16448"), accepted for publication in Proc. of the 8th Network Traffic Measurement and Analysis Conf. (TMA))
 
 Please take a look into the paper for detailed info about the measurement setup, software used, as well as analysis results.
 
@@ -26,13 +26,13 @@ The weather data from the KNMI (Enschede) and DWD (Osnabrück) are too large to 
 They can be downloaded from the links provided in the "DWD_KNMI_Downloadlinks.txt"
 
 ## Citation
-D. Laniewski, E. Lanfer, B. Meijerink, R. van Rijswijk-Deij, N. Aschenbruck, "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data," arXiv preprint arXiv:2402.16448, 2024.
+D. Laniewski, E. Lanfer, B. Meijerink, R. van Rijswijk-Deij, N. Aschenbruck, "WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data", Proc. of the 8th Network Traffic Measurement and Analysis Conf. (TMA), 2024.
 ```
-@article{laniewski2024wetlinks,
-  	title={{WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data}},
- 	author={Laniewski, Dominic and Lanfer, Eric and Meijerink, Bernd and van Rijswijk-Deij, Roland and Aschenbruck, Nils},
-  	journal={arXiv preprint arXiv:2402.16448},
-  	year={2024}
+@inproceedings{datasetpaper,
+  title={{WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data}},
+  author={Laniewski, Dominic and Lanfer, Eric and Meijerink, Bernd and van Rijswijk-Deij, Roland and Aschenbruck, Nils},
+  booktitle={Proc. of the 8th Network Traffic Measurement and Analysis Conf. (TMA)},
+  year={2024}
 }
 ```
 
